@@ -1,0 +1,1 @@
+This repository serves as a portfolio of my professional work in machine learning. Each report is a comprehensive documentation of the respective project, providing insights into my approach and the outcomes achieved. The projects span various ML techniques and applications, showcasing my expertise and experience in the domain.
